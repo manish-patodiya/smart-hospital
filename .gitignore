@@ -1,0 +1,4 @@
+application/writable/*
+backend/captcha_images/*
+backend/captcha_images/*.jpg
+application/third_party/*
